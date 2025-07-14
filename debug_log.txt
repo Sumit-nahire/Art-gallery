@@ -1,0 +1,10 @@
+Array
+(
+    [payment_method] => cod
+    [price] => 200
+    [quantity] => 1
+    [size] => Medium
+    [dimension] => 56x56
+    [address] => sgfds
+    [email] => giridharwagh2005@gmail.com
+)

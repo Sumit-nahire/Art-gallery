@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background: white;
+    padding: 20px;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+.product {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.product img {
+    width: 80px;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.details p {
+    margin: 5px 0;
+}
+
+input[type="number"], input[type="text"], input[type="email"] {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.half {
+    display: flex;
+    gap: 10px;
+}
+
+.half input {
+    flex: 1;
+}
+
+.payment-methods {
+    text-align: center;
+}
+
+.methods {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.pay-btn {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 30%;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.pay-btn:hover {
+    background: #0056b3;
+}
+
+.hidden {
+    display: none;
+}
+
+.checkout-btn {
+    width: 100%;
+    background: #28a745;
+    color: white;
+    border: none;
+    padding: 12px;
+    margin-top: 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.checkout-btn:hover {
+    background: #218838;
+}
