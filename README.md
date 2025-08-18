@@ -1,5 +1,5 @@
 # Art Gallery Management System 🎨 🖼️
-🌐 A web-based Art Gallery Management System developed using HTML, CSS, Bootstrap, PHP, and PostgreSQL Database.
+ ## A web-based Art Gallery Management System developed using HTML, CSS, Bootstrap, PHP, and PostgreSQL Database.🌐
 -------------------------------------------------------------------------------------------------------------------------------
 
 # Description 📘
