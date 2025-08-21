@@ -34,7 +34,7 @@ This system:
  ## How to Run the Project? 🚀
 This repository contains the Art Gallery Management System web app.
 🛠️ Clone using Git
-git clone https://github.com/YourUsername/Art-Gallery-Management-System
+git clone https://github.com/Sumit-nahire/Art-Gallery-Management-System
 
 Or 📥 download the ZIP file from GitHub.
 
